@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = inesbenarbia92@hotmail.fr
+	name = benarbia ines
